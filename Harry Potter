@@ -1,0 +1,39 @@
+<html>
+<title> Хогвартс наследие </title>
+<body style="font-family:sans-serif;"> </body>
+<header style="background-color:#4B0082;color:#8A2BE2"> 
+<a href="#Гарри" style="color:#B22222; font-size:20px;"> игра </a>
+<a href="#games" style="color:black; font-size:20px"> Гарри </a>
+<img src="https://sun6-20.userapi.com/s/v1/ig2/xYzjqoKggWHim0u8fuDpI2v6s1Rr6ZKv_KrOJnOpRG7V3jl0e3cFLhdmTw0EiN1VhOXc22FhHgzIEWNDDDep_pFJ.jpg?size=50x50&quality=95&crop=77,709,922,922&ava=1/">  
+<h1 style="text-align:center" width="50px" height="50px"> Hogwarts Legacy </h1>
+<p style="text-align:center;color:#4682B4" width="20px" height="20px"> В игре рассказывается о новой истории Гарри Поттера.</p>
+<p style="text-align:center;color:#00FFFF" width="20px" height="20px"> Действие игры разворачивается в конце 19 века.</p>
+<p style="text-align:center;color:#00CED1" width="20px" height="20px"> Главный герой будет разбираться с гоблинами,исследует запретный лес и деревню Хогсмид.</p>
+<p style="text-align:center;color:#66CDAA" width="20px" height="20px"> Действие игры будет разворачиваться в течение нескольких месяцев,поэтому мы увидим Хогвартс в разные времена года. </p> 
+<p style="text-align:center;color:#20B2AA" width="20px" height="20px"> Гарри Поттеру нужно будет спасти весь волшебный мир и школу Хогвартс.</p>
+<p style="text-align:center;color:#00FF00" width="20px" height="20px"> На пути ему встретятся много злодеев и страшных волшебников.</p>
+<p style="text-align:center;color:#0000CD" width="20px" height="20px"><h2 id="Гарри">Эта увлекательная и очень красивая игра не оставит никого равнодушным.</h2></p>
+<h2 style="text-align:center;color:#20B2AA" width="40px" height="40px"> Немного о игре </h2>
+    <table>
+    <tr style="color:#00FFFF" width="20px" height="20px">
+    <td> Сюжет игры: </td>
+    <td> Главного героя игры зачисляют сразу на пятый курс обучения в Хогвартсе.</td>
+    </tr>
+    <tr style="color:#7FFFD4" width="20px" height="20px">
+    <td> Друзья Главного героя это студенты Хогвартса.</td>
+    <td> Они помогают Гарри в обучении и противостоянии с главным злодеем.</td>
+    <td> Друзья Гарри Поттера:1)Себастьян Сэллоу.Ученик Слизерина и фанат волшебных дуэлей.</td>
+    <td>2)Натсай Онай,отличница из Гриффиндора.</td>
+    <td>3)Поппи Добринг,ученица Пуффендуя.</td>
+    </tr>
+    <tr style="color:#87CEEB" width="20px" height="20px">
+    <td><h2 id="games"> Злодеи</h2></td>
+    <td> Ранрок.Гоблин-традиционалист,ненавидит волшебников.</td>
+    <td> Виктор Руквуд.Темный волшебник и потомок одного из Хранителей.</td>
+    </tr>
+    </table>
+<img src="https://sun9-82.userapi.com/impg/eOr_N4rI9HWJjkPUu7c-G6YsReTjP9WgRsoOlw/cKimKCG1gCU.jpg?size=604x302&quality=95&sign=94b7025c8df332e121958ab00a2b59b4&type=album/"></header>
+<header style="background-color:#FF8C00;color:#FF7F50">
+<p style="color:#800000"> Адрес:город Красочный,ул.Тисовая,4. </p>
+<p style="color:#800000"> Тел:698-548 </p> </header>
+</html>
